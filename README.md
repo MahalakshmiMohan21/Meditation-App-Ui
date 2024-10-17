@@ -13,9 +13,9 @@ ouutput:
 ![Screenshot (95)](https://github.com/user-attachments/assets/9f6bcc09-9f45-4b62-88ca-1aa017604bae)
 
 3.user progress tracking:
-![Screenshot (97)](https://github.com/user-attachments/assets/c828f2ec-0498-481e-8c64-ef95b5392c6f)
-
-4.Daily reminders for practice:
+![Screenshot (101)](https://github.com/user-attachments/assets/a7e8e9ce-bc4b-4de8-b516-569bf22bb328)
+4.Daily reminder:
+s for practice:
 ![Screenshot (96)](https://github.com/user-attachments/assets/acdad0fc-055e-4e96-a51f-fc10b059465f)
 
 5.Community features for sharing experiences:
