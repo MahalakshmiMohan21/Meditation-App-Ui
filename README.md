@@ -2,7 +2,7 @@
 
 Prototype link:
 
-https://www.figma.com/proto/gjfaCe7jW1JAh7127Nn1FA/meditation?node-id=10-14&node-type=frame&t=dmRhtagnma1UwY6X-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1
+https://www.figma.com/proto/gjfaCe7jW1JAh7127Nn1FA/meditation?node-id=10-14&node-type=canvas&t=lRwN4oMjf9Z1znRt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
 
 ouutput:
 1.get started page:
@@ -14,8 +14,7 @@ ouutput:
 
 3.user progress tracking:
 ![Screenshot (101)](https://github.com/user-attachments/assets/a7e8e9ce-bc4b-4de8-b516-569bf22bb328)
-4.Daily reminder:
-s for practice:
+4.Daily reminders for practice:
 ![Screenshot (96)](https://github.com/user-attachments/assets/acdad0fc-055e-4e96-a51f-fc10b059465f)
 
 5.Community features for sharing experiences:
