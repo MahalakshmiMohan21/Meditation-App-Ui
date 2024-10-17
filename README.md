@@ -2,7 +2,7 @@
 
 Prototype link:
 
-https://www.figma.com/design/gjfaCe7jW1JAh7127Nn1FA/meditation?node-id=0-1&t=j6naZOgRz2TxsCeK-1
+https://www.figma.com/proto/gjfaCe7jW1JAh7127Nn1FA/meditation?node-id=10-14&node-type=frame&t=dmRhtagnma1UwY6X-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1
 
 ouutput:
 1.get started page:
